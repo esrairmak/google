@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Google </title>
+</head>
+
+<body style="text-align: center; align-items: center;">
+    <main>
+
+        <center><img src="https://web.archive.org/web/19981202230410im_/http://www.google.com/google.jpg"
+                alt="Arama Motoru"></center>
+        <article style="width:auto; background-color: #ecebeb; height: 100px; padding: px;">
+            <center>
+                <p>Search the web using Google!</p>
+            </center>
+            <table border="0" width="90%"></table>
+
+            <center><input type="text" name="q" value="" size="40">
+            </center>
+
+            <input type="submit" name="Search" value="Google Search"></input>
+            <input type="submit" name="Lucky" value="I'm feeling lucky"></input>
+
+
+
+            <div class="row">
+                <table style="width: 100%; margin: 0;">
+                    <tr style="text-align: center;">
+                        <td style="background-color: rgb(186, 241, 186); ">
+                            Special Searches <br>
+                            <a href="https://web.archive.org/web/19990224014327/http://www.google.com/stanford">
+                                Stanford Search</a>
+                            <br>
+                            <a href="https://web.archive.org/web/19990221231654/http://www.google.com/linux"> Linux
+                                Search</a>
+
+                        <td style="background-color: rgb(182, 243, 182); ">
+
+                            <a href=https://web.archive.org/web/19990221212930if_/http://www.google.com/help.html>
+                                Help!</a>
+                            <br>
+                            <a href=https://web.archive.org/web/19990221212930if_/http://www.google.com/help.html> About
+                                Google</a>
+                            <br>
+                            <a href=https://web.archive.org/web/19990221202430if_/http://www.google.com/company.html>
+                                Company Info</a>
+                            <br>
+                            <a href="https://web.archive.org/web/19990224043535if_/http://www.google.com/stickers.html">Google!
+                                Logos</a>
+                            <br>
+
+                        <td style="background-color: rgb(182, 243, 182); ">
+                            <p>Get Google!
+                                updates monthly:</p>
+                            <center><input type="text" name="a" value="your e-mail" size="20">
+                                <br>
+                            </center>
+                            <input type="submit" name="Subscribe" value="Subscribe"></input>
+    <footer style="text-align: center;
+        <p>Copyright © 1998 Google Inc.</p>
+    </footer>
+
+
+</body>
+
+</html>
